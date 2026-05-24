@@ -1,0 +1,464 @@
+[
+  {
+    "id": "film_001",
+    "title": "The Present - OFFICIAL",
+    "url": "https://www.youtube.com/watch?v=WjqiU5FgsYc",
+    "thumbnail": "https://i.ytimg.com/vi/WjqiU5FgsYc/hqdefault.jpg",
+    "channelName": "The Present",
+    "description": "A boy prefers video games but his mother gives him a puppy that changes his perspective.",
+    "durationMinutes": 4,
+    "genres": [
+      "animation",
+      "drama"
+    ],
+    "moodVector": {
+      "funny": 0.1,
+      "emotional": 0.8,
+      "contemplative": 0.5,
+      "strange": 0.1,
+      "dark": 0.0,
+      "intense": 0.3,
+      "exciting": 0.4,
+      "surprising": 0.6,
+      "thoughtProvoking": 0.7
+    },
+    "themes": [
+      "disability",
+      "acceptance",
+      "friendship"
+    ],
+    "intensity": 0.4,
+    "endingMentioned": 1,
+    "choiceLine": "A young gamer meets an unexpected companion who changes his world.",
+    "summary": "An award-winning short where a video game-obsessed boy receives a gift that challenges his way of seeing."
+  },
+  {
+    "id": "film_002",
+    "title": "CGI Animated Short Film \"Alike\"",
+    "url": "https://www.youtube.com/watch?v=PDHIyrfMl_U",
+    "thumbnail": "https://i.ytimg.com/vi/PDHIyrfMl_U/hqdefault.jpg",
+    "channelName": "CGMeetup",
+    "description": "In a gray city, a father and son navigate the tension between conformity and creativity.",
+    "durationMinutes": 8,
+    "genres": [
+      "animation",
+      "drama"
+    ],
+    "moodVector": {
+      "funny": 0.1,
+      "emotional": 0.7,
+      "contemplative": 0.8,
+      "strange": 0.1,
+      "dark": 0.2,
+      "intense": 0.4,
+      "exciting": 0.3,
+      "surprising": 0.5,
+      "thoughtProvoking": 0.8
+    },
+    "themes": [
+      "creativity",
+      "parenthood",
+      "conformity"
+    ],
+    "intensity": 0.5,
+    "endingMentioned": 1,
+    "choiceLine": "A working dad learns to colour outside the lines with his son.",
+    "summary": "A father and son in a monochrome city discover the cost of losing one's imagination."
+  },
+  {
+    "id": "film_003",
+    "title": "One-Minute Time Machine - The Short Film that (probably) helped Rick & Morty win an Emmy",
+    "url": "https://www.youtube.com/watch?v=CXhnPLMIET0",
+    "thumbnail": "https://i.ytimg.com/vi/CXhnPLMIET0/hqdefault.jpg",
+    "channelName": "Devon Avery",
+    "description": "A man repeatedly uses a time-travel device to woo a woman, with darkly comic results.",
+    "durationMinutes": 5,
+    "genres": [
+      "comedy",
+      "sci-fi"
+    ],
+    "moodVector": {
+      "funny": 0.8,
+      "emotional": 0.3,
+      "contemplative": 0.2,
+      "strange": 0.4,
+      "dark": 0.3,
+      "intense": 0.5,
+      "exciting": 0.5,
+      "surprising": 0.8,
+      "thoughtProvoking": 0.4
+    },
+    "themes": [
+      "time travel",
+      "romance",
+      "consequences"
+    ],
+    "intensity": 0.6,
+    "endingMentioned": 1,
+    "choiceLine": "What if you could redo the last minute... until you can't?",
+    "summary": "A hapless suitor uses a one-minute time machine to impress a woman, discovering the perils of rewinding time."
+  },
+  {
+    "id": "film_004",
+    "title": "Validation",
+    "url": "https://www.youtube.com/watch?v=Cbk980jV7Ao",
+    "thumbnail": "https://i.ytimg.com/vi/Cbk980jV7Ao/hqdefault.jpg",
+    "channelName": "Kurt Kuenne",
+    "description": "A parking attendant gives compliments and free validations, changing lives until he meets a woman he can't make smile.",
+    "durationMinutes": 16,
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "moodVector": {
+      "funny": 0.6,
+      "emotional": 0.7,
+      "contemplative": 0.6,
+      "strange": 0.1,
+      "dark": 0.1,
+      "intense": 0.4,
+      "exciting": 0.4,
+      "surprising": 0.6,
+      "thoughtProvoking": 0.7
+    },
+    "themes": [
+      "positivity",
+      "self-worth",
+      "love"
+    ],
+    "intensity": 0.5,
+    "endingMentioned": 1,
+    "choiceLine": "A guy's smile is contagious... until he meets someone immune.",
+    "summary": "This feel-good fable follows a man who can cheer everyone up except the woman he loves."
+  },
+  {
+    "id": "film_005",
+    "title": "TUCK ME IN",
+    "url": "https://www.youtube.com/watch?v=gNQIdEv-Emo",
+    "thumbnail": "https://i.ytimg.com/vi/gNQIdEv-Emo/hqdefault.jpg",
+    "channelName": "FILMINUTE",
+    "description": "A father tucks his son in bed, but a chilling request reveals something horrifying.",
+    "durationMinutes": 1,
+    "genres": [
+      "horror",
+      "thriller"
+    ],
+    "moodVector": {
+      "funny": 0.0,
+      "emotional": 0.3,
+      "contemplative": 0.1,
+      "strange": 0.7,
+      "dark": 0.8,
+      "intense": 0.9,
+      "exciting": 0.5,
+      "surprising": 0.9,
+      "thoughtProvoking": 0.4
+    },
+    "themes": [
+      "fear",
+      "family",
+      "the unknown"
+    ],
+    "intensity": 0.9,
+    "endingMentioned": 1,
+    "choiceLine": "A bedtime routine turns into a nightmare in just 60 seconds.",
+    "summary": "A one-minute horror short where a child's plea forces his father to question what\u2019s real."
+  },
+  {
+    "id": "film_006",
+    "title": "Alma short film",
+    "url": "https://www.youtube.com/watch?v=Aw0uORumRts",
+    "thumbnail": "https://i.ytimg.com/vi/Aw0uORumRts/hqdefault.jpg",
+    "channelName": "Rodrigo Blaas",
+    "description": "Curiosity draws a girl into a mysterious toy shop on a snowy day.",
+    "durationMinutes": 6,
+    "genres": [
+      "animation",
+      "horror"
+    ],
+    "moodVector": {
+      "funny": 0.0,
+      "emotional": 0.2,
+      "contemplative": 0.5,
+      "strange": 0.7,
+      "dark": 0.7,
+      "intense": 0.8,
+      "exciting": 0.4,
+      "surprising": 0.7,
+      "thoughtProvoking": 0.5
+    },
+    "themes": [
+      "curiosity",
+      "temptation",
+      "supernatural"
+    ],
+    "intensity": 0.8,
+    "endingMentioned": 1,
+    "choiceLine": "A little girl discovers a doll that looks just like her.",
+    "summary": "An eerie animated tale of a young girl lured into a doll shop with an unsettling secret."
+  },
+  {
+    "id": "film_007",
+    "title": "The Maker - This beautiful animation will shatter your heart",
+    "url": "https://www.youtube.com/watch?v=YDXOioU_OKM",
+    "thumbnail": "https://i.ytimg.com/vi/YDXOioU_OKM/hqdefault.jpg",
+    "channelName": "Zealous Creative",
+    "description": "A creature races against time to complete his greatest creation.",
+    "durationMinutes": 5,
+    "genres": [
+      "animation",
+      "fantasy"
+    ],
+    "moodVector": {
+      "funny": 0.1,
+      "emotional": 0.8,
+      "contemplative": 0.7,
+      "strange": 0.6,
+      "dark": 0.4,
+      "intense": 0.6,
+      "exciting": 0.5,
+      "surprising": 0.5,
+      "thoughtProvoking": 0.8
+    },
+    "themes": [
+      "creation",
+      "time",
+      "purpose"
+    ],
+    "intensity": 0.6,
+    "endingMentioned": 1,
+    "choiceLine": "A race against the clock to craft a life.",
+    "summary": "A stop-motion masterpiece about a creature compelled to build another before his own time runs out."
+  },
+  {
+    "id": "film_008",
+    "title": "THE ANSWERS - By Michael Goode and Daniel Lissing",
+    "url": "https://www.youtube.com/watch?v=zo_nrcKUffw",
+    "thumbnail": "https://i.ytimg.com/vi/zo_nrcKUffw/hqdefault.jpg",
+    "channelName": "Storyforces",
+    "description": "In the afterlife, a man gets to know the answers to all the questions he ever had about his life.",
+    "durationMinutes": 8,
+    "genres": [
+      "drama",
+      "fantasy"
+    ],
+    "moodVector": {
+      "funny": 0.3,
+      "emotional": 0.6,
+      "contemplative": 0.8,
+      "strange": 0.4,
+      "dark": 0.3,
+      "intense": 0.5,
+      "exciting": 0.4,
+      "surprising": 0.7,
+      "thoughtProvoking": 0.9
+    },
+    "themes": [
+      "life",
+      "death",
+      "regret",
+      "knowledge"
+    ],
+    "intensity": 0.5,
+    "endingMentioned": 1,
+    "choiceLine": "What if you could get answers to everything after you die?",
+    "summary": "After a fatal accident, a man meets a clerk who can answer any question he has about his past."
+  },
+  {
+    "id": "film_009",
+    "title": "CGI Animated Short Film \"Sweet Cocoon\" by ESMA | CGMeetup",
+    "url": "https://www.youtube.com/watch?v=BnlQ7bVUDjc",
+    "thumbnail": "https://i.ytimg.com/vi/BnlQ7bVUDjc/hqdefault.jpg",
+    "channelName": "CGMeetup",
+    "description": "Two insects help a determined caterpillar squeeze into her cocoon.",
+    "durationMinutes": 6,
+    "genres": [
+      "animation",
+      "comedy"
+    ],
+    "moodVector": {
+      "funny": 0.7,
+      "emotional": 0.5,
+      "contemplative": 0.3,
+      "strange": 0.2,
+      "dark": 0.1,
+      "intense": 0.4,
+      "exciting": 0.5,
+      "surprising": 0.6,
+      "thoughtProvoking": 0.4
+    },
+    "themes": [
+      "friendship",
+      "persistence",
+      "metamorphosis"
+    ],
+    "intensity": 0.4,
+    "endingMentioned": 0,
+    "choiceLine": "Helping someone grow isn't always graceful.",
+    "summary": "A charming animation where two bugs assist a plump caterpillar in an amusing struggle to transform."
+  },
+  {
+    "id": "film_010",
+    "title": "In a Heartbeat - Animated Short Film",
+    "url": "https://www.youtube.com/watch?v=2REkk9SCRn0",
+    "thumbnail": "https://i.ytimg.com/vi/2REkk9SCRn0/hqdefault.jpg",
+    "channelName": "In a Heartbeat Animated Short Film",
+    "description": "A closeted boy literally follows his heart when it pops out of his chest to chase the boy of his dreams.",
+    "durationMinutes": 4,
+    "genres": [
+      "animation",
+      "romance"
+    ],
+    "moodVector": {
+      "funny": 0.4,
+      "emotional": 0.8,
+      "contemplative": 0.6,
+      "strange": 0.2,
+      "dark": 0.1,
+      "intense": 0.5,
+      "exciting": 0.6,
+      "surprising": 0.5,
+      "thoughtProvoking": 0.7
+    },
+    "themes": [
+      "love",
+      "identity",
+      "courage"
+    ],
+    "intensity": 0.5,
+    "endingMentioned": 1,
+    "choiceLine": "Sometimes your heart has a mind of its own.",
+    "summary": "This heartwarming short depicts a boy\u2019s heart chasing after his crush, revealing his feelings in the process."
+  },
+  {
+    "id": "film_011",
+    "title": "Caminandes 3: Llamigos",
+    "url": "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
+    "thumbnail": "https://i.ytimg.com/vi/SkVqJ1SGeL0/hqdefault.jpg",
+    "channelName": "Blender",
+    "description": "Koro the llama and his penguin friend battle the winter elements to find food.",
+    "durationMinutes": 3,
+    "genres": [
+      "animation",
+      "comedy"
+    ],
+    "moodVector": {
+      "funny": 0.7,
+      "emotional": 0.5,
+      "contemplative": 0.3,
+      "strange": 0.2,
+      "dark": 0.1,
+      "intense": 0.4,
+      "exciting": 0.6,
+      "surprising": 0.5,
+      "thoughtProvoking": 0.3
+    },
+    "themes": [
+      "friendship",
+      "survival",
+      "winter"
+    ],
+    "intensity": 0.4,
+    "endingMentioned": 0,
+    "choiceLine": "A llama and a penguin go fishing in the snow.",
+    "summary": "In this silent short, a llama and his new penguin pal brave icy terrain in search of berries."
+  },
+  {
+    "id": "film_012",
+    "title": "CGI Animated Short Film \"Caminandes Gran Dillama\" by Blender Animation Studio | CGMeetup",
+    "url": "https://www.youtube.com/watch?v=WZQ57NQ5toA",
+    "thumbnail": "https://i.ytimg.com/vi/WZQ57NQ5toA/hqdefault.jpg",
+    "channelName": "CGMeetup",
+    "description": "Koro the llama gets into trouble when a barrier blocks his way across the road.",
+    "durationMinutes": 2,
+    "genres": [
+      "animation",
+      "comedy"
+    ],
+    "moodVector": {
+      "funny": 0.6,
+      "emotional": 0.4,
+      "contemplative": 0.3,
+      "strange": 0.2,
+      "dark": 0.1,
+      "intense": 0.3,
+      "exciting": 0.5,
+      "surprising": 0.4,
+      "thoughtProvoking": 0.2
+    },
+    "themes": [
+      "perseverance",
+      "obstacles",
+      "humor"
+    ],
+    "intensity": 0.3,
+    "endingMentioned": 0,
+    "choiceLine": "A determined llama faces off against an unfriendly gate.",
+    "summary": "A humorous chase ensues when a llama attempts to cross a farmer\u2019s fence and meets his match."
+  },
+  {
+    "id": "film_013",
+    "title": "Coin Operated - Animated Short Film",
+    "url": "https://www.youtube.com/watch?v=5L4DQfVIcdg",
+    "thumbnail": "https://i.ytimg.com/vi/5L4DQfVIcdg/hqdefault.jpg",
+    "channelName": "Two Ghosts",
+    "description": "A boy\u2019s lifelong dream of space travel is reignited by a coin-operated rocket ride.",
+    "durationMinutes": 5,
+    "genres": [
+      "animation",
+      "adventure"
+    ],
+    "moodVector": {
+      "funny": 0.5,
+      "emotional": 0.6,
+      "contemplative": 0.6,
+      "strange": 0.2,
+      "dark": 0.2,
+      "intense": 0.4,
+      "exciting": 0.7,
+      "surprising": 0.6,
+      "thoughtProvoking": 0.6
+    },
+    "themes": [
+      "dreams",
+      "perseverance",
+      "wonder"
+    ],
+    "intensity": 0.5,
+    "endingMentioned": 1,
+    "choiceLine": "A coin, a rocket ride and a 70-year dream.",
+    "summary": "This charming animation follows a boy who never gives up on his childhood dream of reaching the stars."
+  },
+  {
+    "id": "film_014",
+    "title": "The Neighbors' Window - Oscar Winning Short Film",
+    "url": "https://www.youtube.com/watch?v=k1vCrsZ80M4",
+    "thumbnail": "https://i.ytimg.com/vi/k1vCrsZ80M4/hqdefault.jpg",
+    "channelName": "Marshall Curry Productions",
+    "description": "A woman with young children becomes obsessed with watching her free-spirited young neighbours across the street.",
+    "durationMinutes": 20,
+    "genres": [
+      "drama"
+    ],
+    "moodVector": {
+      "funny": 0.2,
+      "emotional": 0.7,
+      "contemplative": 0.8,
+      "strange": 0.2,
+      "dark": 0.3,
+      "intense": 0.6,
+      "exciting": 0.4,
+      "surprising": 0.7,
+      "thoughtProvoking": 0.9
+    },
+    "themes": [
+      "envy",
+      "perspective",
+      "family"
+    ],
+    "intensity": 0.6,
+    "endingMentioned": 1,
+    "choiceLine": "Looking through someone else\u2019s window changes how you see your own life.",
+    "summary": "An overwhelmed mother envies her carefree neighbors until an unexpected encounter changes her outlook."
+  }
+]

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Lens</title>
+
+  <meta name="description" content="Short films, brought into focus." />
+  <meta name="theme-color" content="#070b1a" />
+
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icons/favicon.ico" />
+  <link rel="icon" type="image/png" href="icons/icon-48.png" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+  <main class="app-shell">
+    <section data-screen="home">
+        <div class="home-card">
+            <div class="brand">
+                <img src="icons/icon-192.png" alt="Lens icon" class="brand-icon" />
+                <h1>Lens</h1>
+                <p>Short films, brought into focus.</p>
+            </div>
+
+            <form id="home-form" class="home-form">
+                <label class="field">
+                    <span>How much time do you have?</span>
+
+                    <div class="input-with-unit">
+                        <input
+                        id="available-time"
+                        type="number"
+                        min="5"
+                        max="120"
+                        value="30"
+                        required
+                        />
+
+                        <span class="input-unit">min</span>
+                    </div>
+                </label>
+
+                <label class="field">
+                    <span>What kind of mood?</span>
+                    <select id="selected-mood" required>
+                        <option value="emotional">Emotional</option>
+                        <option value="funny">Funny</option>
+                        <option value="contemplative">Contemplative</option>
+                        <option value="strange">Strange</option>
+                        <option value="dark">Dark</option>
+                        <option value="intense">Intense</option>
+                        <option value="exciting">Exciting</option>
+                        <option value="surprising">Surprising</option>
+                        <option value="thoughtProvoking">Thought-provoking</option>
+                    </select>
+                </label>
+
+                <fieldset class="mode-group">
+                <legend>What should Lens build?</legend>
+
+                <label>
+                    <input type="radio" name="mode" value="single" />
+                    <span>One short film</span>
+                </label>
+
+                <label>
+                    <input type="radio" name="mode" value="session" checked />
+                    <span>A mini-session</span>
+                </label>
+
+                <label>
+                    <input type="radio" name="mode" value="surprise" />
+                    <span>Surprise me</span>
+                </label>
+                </fieldset>
+
+                <button type="submit" class="primary-button">
+                Start
+                </button>
+            </form>
+        </div>
+    </section>
+
+
+    <section data-screen="calibration" hidden>
+        <div class="calibration-card">
+            <p id="calibration-progress" class="eyebrow"></p>
+
+            <h2>Would you watch this?</h2>
+
+            <p id="calibration-choice-line" class="choice-line"></p>
+
+            <div class="calibration-actions">
+                <button id="skip-button" type="button" class="secondary-button">
+                Skip
+                </button>
+
+                <button id="take-button" type="button" class="primary-button">
+                Take
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <section data-screen="results" hidden>
+        <div class="result-deck">
+            <div id="active-result-card"></div>
+
+            <div class="result-navigation">
+                <button id="previous-result-button" type="button" class="secondary-button">
+                    ←
+                </button>
+
+                <span id="result-counter" class="result-counter"></span>
+
+                <button id="next-result-button" type="button" class="secondary-button">
+                    →
+                </button>
+            </div>
+
+            <button id="reroll-button" type="button" class="ghost-button">
+            Reroll
+            </button>
+
+            <button id="restart-button" type="button" class="ghost-button">
+            Change settings
+            </button>
+        </div>
+    </section>
+
+
+    <section data-screen="session-detail" hidden>
+        <div class="session-detail">
+            <button id="back-to-results-button" type="button" class="ghost-button">
+            ← Back to results
+            </button>
+
+            <div id="session-detail-content"></div>
+        </div>
+    </section>
+
+
+    <section data-screen="error" hidden>
+      <h1>Something went wrong</h1>
+      <p id="error-message"></p>
+    </section>
+  </main>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
